@@ -1,0 +1,39 @@
+class Solution {
+     public int longestCommonSubsequence(String text1, String text2) {
+
+        int n = text1.length();
+        int m = text2.length();
+
+        int prev[] = new int[m + 1];
+
+        for(int i = 1; i <= n; i++){
+
+            int curr[] = new int[m + 1];
+
+            for(int j = 1; j <= m; j++){
+
+                if(text1.charAt(i - 1) == text2.charAt(j - 1)){
+
+                    curr[j] = 1 + prev[j - 1];
+
+                }
+                else{
+
+                    curr[j] = Math.max(prev[j],
+                                       curr[j - 1]);
+                }
+            }
+
+            prev = curr;
+        }
+
+        return prev[m];
+    }
+    public int minDistance(String word1, String word2) {
+       
+        int ans=longestCommonSubsequence(word1,word2);
+        int n=word1.length()-ans;
+        int n2=word2.length()-ans;
+        return n+n2;
+    }
+}
