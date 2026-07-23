@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0118-pascals-triangle) |
+| [0238-product-of-array-except-self](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0416-partition-equal-subset-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0931-minimum-falling-path-sum) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
