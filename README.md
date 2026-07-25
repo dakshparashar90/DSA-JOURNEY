@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
