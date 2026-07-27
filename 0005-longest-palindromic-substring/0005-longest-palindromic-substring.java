@@ -1,31 +1,40 @@
-//expand round center approch
-
 class Solution {
+
+    Boolean[][] dp;
+    String ans = "";
+
     public String longestPalindrome(String s) {
-     if(s==null || s.length()<1) return "";
+        int n = s.length();
+        dp = new Boolean[n][n];
 
-        int start=0,end=0;
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
 
-        for(int i=0;i<s.length();i++){
-            int len1 = expand(i,i,s);     
-            int len2 = expand(i,i+1,s); 
-
-            int max=Math.max(len1,len2);
-
-            if(max>end-start){
-                start=i-(max-1)/2;
-                end=i+(max/2);
+                if (isPalindrome(s, i, j)) {
+                    if (j - i + 1 > ans.length()) {
+                        ans = s.substring(i, j + 1);
+                    }
+                }
             }
         }
-        return s.substring(start,end+1);
 
+        return ans;
     }
-    public int expand(int left,int right,String s){
-        while(left>=0 && right<s.length() && s.charAt(left)==s.charAt(right)){
-            left--;
-            right++;
+
+    private boolean isPalindrome(String s, int i, int j) {
+
+        if (i >= j) {
+            return true;
         }
 
-        return right-left-1;
+        if (dp[i][j] != null) {
+            return dp[i][j];
+        }
+
+        if (s.charAt(i) != s.charAt(j)) {
+            return dp[i][j] = false;
+        }
+
+        return dp[i][j] = isPalindrome(s, i + 1, j - 1);
     }
 }
