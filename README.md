@@ -87,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0547-number-of-provinces) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0547-number-of-provinces) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
@@ -145,9 +147,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
