@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0133-clone-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
@@ -141,9 +143,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
