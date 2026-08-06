@@ -7,8 +7,8 @@ class Solution {
        
         int maxi=0;
 
-        for(int i=0;i<nums.length-1;i++) {
-            if(nums[i]==0 && maxi<=i){
+        for(int i=0;i<nums.length;i++) {
+            if(maxi<i){
                     return false;
             }
 
