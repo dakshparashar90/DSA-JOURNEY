@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
