@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1768-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -186,12 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
