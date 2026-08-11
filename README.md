@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0133-clone-graph) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0443-string-compression) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
