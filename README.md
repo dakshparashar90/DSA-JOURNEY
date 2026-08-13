@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
