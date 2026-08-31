@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0685-redundant-connection-ii) |
+| [1367-linked-list-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1367-linked-list-in-binary-tree) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1367-linked-list-in-binary-tree) |
 ## Design
 |  |
 | ------- |
