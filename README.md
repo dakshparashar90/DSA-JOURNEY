@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0437-path-sum-iii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0437-path-sum-iii) |
@@ -244,9 +247,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -258,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
