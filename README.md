@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0226-invert-binary-tree) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0226-invert-binary-tree) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0226-invert-binary-tree) |
