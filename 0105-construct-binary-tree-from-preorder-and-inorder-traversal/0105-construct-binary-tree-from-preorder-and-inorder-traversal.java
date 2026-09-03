@@ -13,36 +13,26 @@
  *     }
  * }
  */
-class Solution {
-    int ind;
-    int find(int val,int[]in,int[]pr,int s,int e ){
-      
-     
-        for(int j=s;j<=e;j++){
-            if(in[j]==val){
-                return j;
-            }
-        }
-        return -1;
+class Solution { // Optimal Approach 
+    public int index = 0;
+    Map <Integer,Integer> map = new HashMap<>();
+    public TreeNode build(int start , int end,int [] preorder)
+    {
+        if(start>end)
+        return null;
+        TreeNode root = new TreeNode (preorder[index]);
+        int rootPositionInInorder = map.get(preorder[index]);
+        index++;
+        root.left = build(start,rootPositionInInorder-1,preorder);
+        root.right = build(rootPositionInInorder+1,end,preorder);
+        return root;
     }
-    TreeNode solve(int[]pr,int[]in,int s,int e){
-        if(s>e){
-            return null;
-        }
-        
-        int val=pr[ind++];
-        int vl=find(val,in,pr, s, e);
-        TreeNode tree=new TreeNode(val); 
-           
-       
-        tree.left=solve(pr,in,s,vl-1);
-        tree.right=solve(pr,in,vl+1,e);
-        
-        return tree;
-    }
- 
-    public TreeNode buildTree(int[] preorder, int[] inorder) {
-        ind=0;
-      return solve(preorder,inorder,0,inorder.length-1);
+    public TreeNode buildTree(int[] preorder, int[] inorder ) {
+        index = 0;
+        map = new HashMap<>();
+        for(int i=0;i<inorder.length;i++)
+        map.put(inorder[i],i);
+        TreeNode root = build(0,preorder.length-1,preorder);
+        return root;
     }
 }
