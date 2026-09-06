@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0074-search-a-2d-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
