@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
@@ -304,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
