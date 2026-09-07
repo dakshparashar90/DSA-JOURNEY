@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0057-insert-interval) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0074-search-a-2d-matrix) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Prefix Sum
