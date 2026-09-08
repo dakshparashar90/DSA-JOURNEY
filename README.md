@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0685-redundant-connection-ii) |
 | [1367-linked-list-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1367-linked-list-in-binary-tree) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0685-redundant-connection-ii) |
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0450-delete-node-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0450-delete-node-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1367-linked-list-in-binary-tree) |
 ## Design
