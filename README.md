@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0583-delete-operation-for-two-strings) |
+| [0606-construct-string-from-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0606-construct-string-from-binary-tree) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1143-longest-common-subsequence) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0547-number-of-provinces) |
+| [0606-construct-string-from-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0685-redundant-connection-ii) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0450-delete-node-in-a-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1367-linked-list-in-binary-tree) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0450-delete-node-in-a-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1367-linked-list-in-binary-tree) |
