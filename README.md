@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0931-minimum-falling-path-sum) |
+| [0989-add-to-array-form-of-integer](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0989-add-to-array-form-of-integer) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0523-continuous-subarray-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0523-continuous-subarray-sum) |
+| [0989-add-to-array-form-of-integer](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Prefix Sum
 |  |
