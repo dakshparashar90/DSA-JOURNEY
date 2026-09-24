@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0118-pascals-triangle) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0424-longest-repeating-character-replacement) |
@@ -339,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1143-longest-common-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
