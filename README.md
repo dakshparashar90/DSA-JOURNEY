@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
