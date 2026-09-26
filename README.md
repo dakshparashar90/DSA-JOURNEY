@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
