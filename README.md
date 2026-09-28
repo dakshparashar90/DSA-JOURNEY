@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0063-unique-paths-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0173-binary-search-tree-iterator) |
@@ -364,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0231-power-of-two) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
