@@ -12,16 +12,16 @@ class Solution {
       }
       
       for(int i=n-2;i>=0;i--){
-        int curr[]=new int[m];
         for(int j=m-1;j>=0;j--){
+       
             int d=dp[j];
-            int r=j<m-1?curr[j+1]:Integer.MAX_VALUE;
+            int r=j<m-1?dp[j+1]:Integer.MAX_VALUE;
 
                 int need=Math.min(d,r);
-              curr[j] = Math.max(1, need - dungeon[i][j]);  
+             dp[j] = Math.max(1, need - dungeon[i][j]);  
 
         }
-        dp=curr;
+     
       }  
         return dp[0]; 
     }
