@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0606-construct-string-from-binary-tree) |
+| [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1143-longest-common-subsequence) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0435-non-overlapping-intervals) |
+| [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,10 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0435-non-overlapping-intervals) |
+| [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
