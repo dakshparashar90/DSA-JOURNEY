@@ -12,7 +12,7 @@ class Solution {
 
             int max=Math.max(len1,len2);
 
-            if(max>end-start){
+            if(max>end-start+1){
                 start=i-(max-1)/2;
                 end=i+(max/2);
             }
