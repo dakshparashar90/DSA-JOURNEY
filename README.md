@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1405-longest-happy-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1768-merge-strings-alternately) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
 | ------- |
