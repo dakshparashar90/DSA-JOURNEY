@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1405-longest-happy-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1405-longest-happy-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1405-longest-happy-string) |
 ## Bucket Sort
 |  |
 | ------- |
