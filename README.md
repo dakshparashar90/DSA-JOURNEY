@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1405-longest-happy-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1405-longest-happy-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1405-longest-happy-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1405-longest-happy-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Divide and Conquer
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bit Manipulation
 |  |
