@@ -1,18 +1,18 @@
 class Solution {
     public int minSwaps(String s) {
         int bal=0;
-        int maxInbal=0;
+       
 
         for(int i=0;i<s.length();i++){
             if(s.charAt(i)=='['){
                 bal++;
             }
-            else{
+            else if(bal!=0){
                 bal--;
             }
 
-            maxInbal=Math.min(maxInbal,bal);
+           
         }
-        return (Math.abs(maxInbal)+1)/2;
+        return (bal+1)/2;
     }
 }
