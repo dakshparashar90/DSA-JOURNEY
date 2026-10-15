@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0802-find-eventual-safe-states) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0802-find-eventual-safe-states) |
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Linked List
 |  |
 | ------- |
@@ -429,8 +431,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0743-network-delay-time) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0743-network-delay-time) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2045-second-minimum-time-to-reach-destination) |
+## K Shortest Path
+|  |
+| ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2045-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
