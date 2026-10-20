@@ -441,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2045-second-minimum-time-to-reach-destination) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
