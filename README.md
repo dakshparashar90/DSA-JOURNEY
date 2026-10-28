@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0931-minimum-falling-path-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0989-add-to-array-form-of-integer) |
+| [0994-rotting-oranges](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## String
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0802-find-eventual-safe-states) |
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Linked List
