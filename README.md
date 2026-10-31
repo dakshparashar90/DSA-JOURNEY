@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## String
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/2045-second-minimum-time-to-reach-destination) |
 ## Linked List
 |  |
