@@ -1,81 +1,69 @@
 class Solution {
-
     public int shortestPath(int[][] grid, int k) {
+        int n=grid.length;
+        int m=grid[0].length;
+        boolean dup[][][]=new boolean[n][m][k+1];
 
-        int m = grid.length;
-        int n = grid[0].length;
+        Queue<int[]>qq=new LinkedList<>();
 
-       
-        if (k >= m + n - 2) {
-            return m + n - 2;
-        }
+        qq.offer(new int[]{0,0,k});
 
-       
-        boolean[][][] visited =
-            new boolean[m][n][k + 1];
+        dup[0][0][k]=true;
 
-        Queue<int[]> q = new LinkedList<>();
+        int step=0;
 
-       
-        q.offer(new int[]{0, 0, k});
-
-        visited[0][0][k] = true;
-
-        int[][] directions = {
+         int[][] directions = {
             {0, 1},
             {0, -1},
             {1, 0},
             {-1, 0}
         };
+        while(!qq.isEmpty()){
 
-        int steps = 0;
+            int size=qq.size();
+            while(size-- >0){
+                int curr[]=qq.poll();
 
-        while (!q.isEmpty()) {
+                int r=curr[0];
+                int c=curr[1];
+                int rem=curr[2];
 
-            int size = q.size();
-
-            while (size-- > 0) {
-
-                int[] curr = q.poll();
-
-                int r = curr[0];
-                int c = curr[1];
-                int remain = curr[2];
-
-               
-                if (r == m - 1 && c == n - 1) {
-                    return steps;
+                 if (r == n - 1 && c == m - 1) {
+                    return step;
                 }
 
-                for (int[] dir : directions) {
+              
 
-                    int nr = r + dir[0];
-                    int nc = c + dir[1];
+                for(int it[]:directions){
 
-                    if (nr < 0 || nc < 0 ||
-                        nr >= m || nc >= n) {
+                        int rr=r+it[0];
+                        int cc=c+it[1];
+
+                        if(rr<0 || rr>=n || cc<0 || cc>=m){
+                            continue;
+                        }
+
+
+                    
+                    int newR=rem-grid[rr][cc];
+                    if(newR<0){
                         continue;
                     }
 
-                    int newRemain =
-                        remain - grid[nr][nc];
+                    if(!dup[rr][cc][newR]){
+                        dup[rr][cc][newR]=true;
 
-                    if (newRemain < 0) {
-                        continue;
+                        qq.offer(new int[]{rr,cc,newR});
                     }
 
-                    if (!visited[nr][nc][newRemain]) {
-
-                        visited[nr][nc][newRemain] = true;
-
-                        q.offer(new int[]{
-                            nr, nc, newRemain
-                        });
-                    }
                 }
+
+                
+
+                
             }
+            step++;
 
-            steps++;
         }
 
         return -1;
