@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0238-product-of-array-except-self) |
+| [0332-reconstruct-itinerary](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0416-partition-equal-subset-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
+| [0332-reconstruct-itinerary](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0443-string-compression) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0685-redundant-connection-ii) |
@@ -219,12 +222,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0435-non-overlapping-intervals) |
 | [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0767-reorganize-string) |
@@ -258,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0332-reconstruct-itinerary](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0332-reconstruct-itinerary) |
 | [0419-battleships-in-a-board](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0547-number-of-provinces) |
@@ -454,4 +460,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0595-big-countries) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
