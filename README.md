@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0994-rotting-oranges) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0695-max-area-of-island) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0802-find-eventual-safe-states) |
 | [1367-linked-list-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/1367-linked-list-in-binary-tree) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0802-find-eventual-safe-states) |
 | [0909-snakes-and-ladders](https://github.com/dakshparashar90/DSA-JOURNEY/tree/master/0909-snakes-and-ladders) |
